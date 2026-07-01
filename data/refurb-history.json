@@ -103,50 +103,6 @@
       ]
     },
     {
-      "ref": "FU9D3LL/A",
-      "chip": "M4",
-      "cpuCores": 10,
-      "gpuCores": 10,
-      "ram": "16GB",
-      "storage": "256GB",
-      "ethernet": "GbE",
-      "refurbPrice": 509,
-      "retailPrice": 599,
-      "discount": 15,
-      "lastSeen": "2026-06-22",
-      "firstSeen": "2026-02-12",
-      "sightings": [
-        {
-          "date": "2026-02-12",
-          "price": 509
-        },
-        {
-          "date": "2026-02-17",
-          "price": 509
-        },
-        {
-          "date": "2026-02-18",
-          "price": 509
-        },
-        {
-          "date": "2026-03-10",
-          "price": 509
-        },
-        {
-          "date": "2026-03-11",
-          "price": 509
-        },
-        {
-          "date": "2026-03-12",
-          "price": 509
-        },
-        {
-          "date": "2026-06-22",
-          "price": 509
-        }
-      ]
-    },
-    {
       "ref": "G16K2LL/A",
       "chip": "M2",
       "cpuCores": 8,
@@ -371,6 +327,54 @@
         {
           "date": "2026-02-17",
           "price": 659
+        }
+      ]
+    },
+    {
+      "ref": "FU9D3LL/A",
+      "chip": "M4",
+      "cpuCores": 10,
+      "gpuCores": 10,
+      "ram": "16GB",
+      "storage": "256GB",
+      "ethernet": "GbE",
+      "refurbPrice": 679,
+      "retailPrice": 599,
+      "discount": 15,
+      "lastSeen": "2026-07-01",
+      "firstSeen": "2026-02-12",
+      "sightings": [
+        {
+          "date": "2026-02-12",
+          "price": 509
+        },
+        {
+          "date": "2026-02-17",
+          "price": 509
+        },
+        {
+          "date": "2026-02-18",
+          "price": 509
+        },
+        {
+          "date": "2026-03-10",
+          "price": 509
+        },
+        {
+          "date": "2026-03-11",
+          "price": 509
+        },
+        {
+          "date": "2026-03-12",
+          "price": 509
+        },
+        {
+          "date": "2026-06-22",
+          "price": 509
+        },
+        {
+          "date": "2026-07-01",
+          "price": 679
         }
       ]
     },
