@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-07-02",
+  "collectedAt": "2026-07-03",
   "source": "https://www.apple.com/shop/refurbished/mac/mac-mini",
   "products": [
     {
@@ -2687,42 +2687,6 @@
       ]
     },
     {
-      "ref": "G1JV9LL/A",
-      "chip": "M4 Pro",
-      "cpuCores": 14,
-      "gpuCores": 20,
-      "ram": "64GB",
-      "storage": "1TB",
-      "ethernet": "GbE",
-      "refurbPrice": 2039,
-      "retailPrice": 2399,
-      "discount": 15,
-      "lastSeen": "2026-06-22",
-      "firstSeen": "2026-02-12",
-      "sightings": [
-        {
-          "date": "2026-02-12",
-          "price": 2039
-        },
-        {
-          "date": "2026-02-18",
-          "price": 2039
-        },
-        {
-          "date": "2026-02-25",
-          "price": 2039
-        },
-        {
-          "date": "2026-03-10",
-          "price": 2039
-        },
-        {
-          "date": "2026-06-22",
-          "price": 2039
-        }
-      ]
-    },
-    {
       "ref": "G1JVCLL/A",
       "chip": "M4 Pro",
       "cpuCores": 12,
@@ -3223,6 +3187,46 @@
         {
           "date": "2025-10-30",
           "price": 2609
+        }
+      ]
+    },
+    {
+      "ref": "G1JV9LL/A",
+      "chip": "M4 Pro",
+      "cpuCores": 14,
+      "gpuCores": 20,
+      "ram": "64GB",
+      "storage": "1TB",
+      "ethernet": "GbE",
+      "refurbPrice": 2629,
+      "retailPrice": 2399,
+      "discount": 15,
+      "lastSeen": "2026-07-03",
+      "firstSeen": "2026-02-12",
+      "sightings": [
+        {
+          "date": "2026-02-12",
+          "price": 2039
+        },
+        {
+          "date": "2026-02-18",
+          "price": 2039
+        },
+        {
+          "date": "2026-02-25",
+          "price": 2039
+        },
+        {
+          "date": "2026-03-10",
+          "price": 2039
+        },
+        {
+          "date": "2026-06-22",
+          "price": 2039
+        },
+        {
+          "date": "2026-07-03",
+          "price": 2629
         }
       ]
     },
