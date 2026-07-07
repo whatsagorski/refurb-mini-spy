@@ -3079,30 +3079,6 @@
       ]
     },
     {
-      "ref": "G1JVMLL/A",
-      "chip": "M4 Pro",
-      "cpuCores": 14,
-      "gpuCores": 20,
-      "ram": "64GB",
-      "storage": "2TB",
-      "ethernet": "10GbE",
-      "refurbPrice": 2459,
-      "retailPrice": 2899,
-      "discount": 15.2,
-      "lastSeen": "2026-06-22",
-      "firstSeen": "2026-01-30",
-      "sightings": [
-        {
-          "date": "2026-01-30",
-          "price": 2459
-        },
-        {
-          "date": "2026-06-22",
-          "price": 2459
-        }
-      ]
-    },
-    {
       "ref": "G1JVULL/A",
       "chip": "M4 Pro",
       "cpuCores": 14,
@@ -3415,6 +3391,34 @@
         {
           "date": "2025-12-12",
           "price": 3039
+        }
+      ]
+    },
+    {
+      "ref": "G1JVMLL/A",
+      "chip": "M4 Pro",
+      "cpuCores": 14,
+      "gpuCores": 20,
+      "ram": "64GB",
+      "storage": "2TB",
+      "ethernet": "10GbE",
+      "refurbPrice": 3139,
+      "retailPrice": 2899,
+      "discount": 15.2,
+      "lastSeen": "2026-07-07",
+      "firstSeen": "2026-01-30",
+      "sightings": [
+        {
+          "date": "2026-01-30",
+          "price": 2459
+        },
+        {
+          "date": "2026-06-22",
+          "price": 2459
+        },
+        {
+          "date": "2026-07-07",
+          "price": 3139
         }
       ]
     },
