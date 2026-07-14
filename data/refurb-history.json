@@ -341,7 +341,7 @@
       "refurbPrice": 679,
       "retailPrice": 599,
       "discount": 15,
-      "lastSeen": "2026-07-01",
+      "lastSeen": "2026-07-14",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -374,6 +374,10 @@
         },
         {
           "date": "2026-07-01",
+          "price": 679
+        },
+        {
+          "date": "2026-07-14",
           "price": 679
         }
       ]
@@ -434,50 +438,6 @@
         },
         {
           "date": "2026-06-23",
-          "price": 679
-        }
-      ]
-    },
-    {
-      "ref": "G1CF9LL/A",
-      "chip": "M4",
-      "cpuCores": 10,
-      "gpuCores": 10,
-      "ram": "24GB",
-      "storage": "256GB",
-      "ethernet": "GbE",
-      "refurbPrice": 679,
-      "retailPrice": 799,
-      "discount": 15,
-      "lastSeen": "2026-06-22",
-      "firstSeen": "2026-02-12",
-      "sightings": [
-        {
-          "date": "2026-02-12",
-          "price": 679
-        },
-        {
-          "date": "2026-02-17",
-          "price": 679
-        },
-        {
-          "date": "2026-02-18",
-          "price": 679
-        },
-        {
-          "date": "2026-02-20",
-          "price": 679
-        },
-        {
-          "date": "2026-03-04",
-          "price": 679
-        },
-        {
-          "date": "2026-03-10",
-          "price": 679
-        },
-        {
-          "date": "2026-06-22",
           "price": 679
         }
       ]
@@ -695,6 +655,54 @@
       ]
     },
     {
+      "ref": "G1CF9LL/A",
+      "chip": "M4",
+      "cpuCores": 10,
+      "gpuCores": 10,
+      "ram": "24GB",
+      "storage": "256GB",
+      "ethernet": "GbE",
+      "refurbPrice": 849,
+      "retailPrice": 799,
+      "discount": 15,
+      "lastSeen": "2026-07-14",
+      "firstSeen": "2026-02-12",
+      "sightings": [
+        {
+          "date": "2026-02-12",
+          "price": 679
+        },
+        {
+          "date": "2026-02-17",
+          "price": 679
+        },
+        {
+          "date": "2026-02-18",
+          "price": 679
+        },
+        {
+          "date": "2026-02-20",
+          "price": 679
+        },
+        {
+          "date": "2026-03-04",
+          "price": 679
+        },
+        {
+          "date": "2026-03-10",
+          "price": 679
+        },
+        {
+          "date": "2026-06-22",
+          "price": 679
+        },
+        {
+          "date": "2026-07-14",
+          "price": 849
+        }
+      ]
+    },
+    {
       "ref": "FCYT4LL/A",
       "chip": "M4",
       "cpuCores": 10,
@@ -746,54 +754,6 @@
         },
         {
           "date": "2026-06-22",
-          "price": 849
-        }
-      ]
-    },
-    {
-      "ref": "G1CF7LL/A",
-      "chip": "M4",
-      "cpuCores": 10,
-      "gpuCores": 10,
-      "ram": "16GB",
-      "storage": "1TB",
-      "ethernet": "GbE",
-      "refurbPrice": 849,
-      "retailPrice": 999,
-      "discount": 15,
-      "lastSeen": "2026-06-23",
-      "firstSeen": "2026-02-12",
-      "sightings": [
-        {
-          "date": "2026-02-12",
-          "price": 849
-        },
-        {
-          "date": "2026-02-17",
-          "price": 849
-        },
-        {
-          "date": "2026-02-18",
-          "price": 849
-        },
-        {
-          "date": "2026-02-21",
-          "price": 849
-        },
-        {
-          "date": "2026-03-04",
-          "price": 849
-        },
-        {
-          "date": "2026-03-10",
-          "price": 849
-        },
-        {
-          "date": "2026-03-11",
-          "price": 849
-        },
-        {
-          "date": "2026-06-23",
           "price": 849
         }
       ]
@@ -1167,6 +1127,58 @@
       ]
     },
     {
+      "ref": "G1CF7LL/A",
+      "chip": "M4",
+      "cpuCores": 10,
+      "gpuCores": 10,
+      "ram": "16GB",
+      "storage": "1TB",
+      "ethernet": "GbE",
+      "refurbPrice": 1099,
+      "retailPrice": 999,
+      "discount": 15,
+      "lastSeen": "2026-07-14",
+      "firstSeen": "2026-02-12",
+      "sightings": [
+        {
+          "date": "2026-02-12",
+          "price": 849
+        },
+        {
+          "date": "2026-02-17",
+          "price": 849
+        },
+        {
+          "date": "2026-02-18",
+          "price": 849
+        },
+        {
+          "date": "2026-02-21",
+          "price": 849
+        },
+        {
+          "date": "2026-03-04",
+          "price": 849
+        },
+        {
+          "date": "2026-03-10",
+          "price": 849
+        },
+        {
+          "date": "2026-03-11",
+          "price": 849
+        },
+        {
+          "date": "2026-06-23",
+          "price": 849
+        },
+        {
+          "date": "2026-07-14",
+          "price": 1099
+        }
+      ]
+    },
+    {
       "ref": "G1CF3LL/A",
       "chip": "M4",
       "cpuCores": 10,
@@ -1310,42 +1322,6 @@
         },
         {
           "date": "2026-06-22",
-          "price": 1189
-        }
-      ]
-    },
-    {
-      "ref": "G1CF8LL/A",
-      "chip": "M4",
-      "cpuCores": 10,
-      "gpuCores": 10,
-      "ram": "16GB",
-      "storage": "2TB",
-      "ethernet": "GbE",
-      "refurbPrice": 1189,
-      "retailPrice": 1399,
-      "discount": 15,
-      "lastSeen": "2026-03-11",
-      "firstSeen": "2026-02-10",
-      "sightings": [
-        {
-          "date": "2026-02-10",
-          "price": 1189
-        },
-        {
-          "date": "2026-02-20",
-          "price": 1189
-        },
-        {
-          "date": "2026-02-21",
-          "price": 1189
-        },
-        {
-          "date": "2026-03-10",
-          "price": 1189
-        },
-        {
-          "date": "2026-03-11",
           "price": 1189
         }
       ]
@@ -1903,6 +1879,46 @@
         {
           "date": "2025-01-25",
           "price": 1519
+        }
+      ]
+    },
+    {
+      "ref": "G1CF8LL/A",
+      "chip": "M4",
+      "cpuCores": 10,
+      "gpuCores": 10,
+      "ram": "16GB",
+      "storage": "2TB",
+      "ethernet": "GbE",
+      "refurbPrice": 1529,
+      "retailPrice": 1399,
+      "discount": 15,
+      "lastSeen": "2026-07-14",
+      "firstSeen": "2026-02-10",
+      "sightings": [
+        {
+          "date": "2026-02-10",
+          "price": 1189
+        },
+        {
+          "date": "2026-02-20",
+          "price": 1189
+        },
+        {
+          "date": "2026-02-21",
+          "price": 1189
+        },
+        {
+          "date": "2026-03-10",
+          "price": 1189
+        },
+        {
+          "date": "2026-03-11",
+          "price": 1189
+        },
+        {
+          "date": "2026-07-14",
+          "price": 1529
         }
       ]
     },
