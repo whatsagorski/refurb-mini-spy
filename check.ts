@@ -34,7 +34,7 @@ function buildSlackMessage(minis: Product[]): { text: string } {
     const specLine = specs ? `\n    ${specs}` : "";
     return `• *${formatPrice(p)}* — ${p.name}${specLine}`;
   });
-  const text = minis.length === 0 ? `No qualifying Mac Minis found.` : [
+  const text = [
     `🖥️ *${minis.length} Mac Mini${minis.length > 1 ? "s" : ""} spotted on Apple Refurbished!*`,
     "",
     ...lines,
@@ -79,10 +79,10 @@ async function main() {
     console.log(`Filtered out ${filtered} model(s) not meeting criteria (M4+, 16GB+, 512GB+)`);
   }
 
-  // if (minis.length === 0) {
-  //   console.log("No qualifying Mac Minis found. Exiting.");
-  //   return;
-  // }
+  if (minis.length === 0) {
+    console.log("No qualifying Mac Minis found. Exiting.");
+    return;
+  }
 
   for (const mini of minis) {
     console.log(`  → ${mini.name} — ${formatPrice(mini)}`);
