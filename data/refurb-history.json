@@ -915,26 +915,6 @@
       ]
     },
     {
-      "ref": "FNH73LL/A",
-      "chip": "M2 Pro",
-      "cpuCores": 10,
-      "gpuCores": 16,
-      "ram": "16GB",
-      "storage": "512GB",
-      "ethernet": "GbE",
-      "refurbPrice": 999,
-      "retailPrice": 1299,
-      "discount": 23.1,
-      "lastSeen": "2025-12-10",
-      "firstSeen": "2025-12-10",
-      "sightings": [
-        {
-          "date": "2025-12-10",
-          "price": 999
-        }
-      ]
-    },
-    {
       "ref": "FCYT4LL/A",
       "chip": "M4",
       "cpuCores": 10,
@@ -1099,6 +1079,30 @@
         {
           "date": "2024-11-08",
           "price": 1039
+        }
+      ]
+    },
+    {
+      "ref": "FNH73LL/A",
+      "chip": "M2 Pro",
+      "cpuCores": 10,
+      "gpuCores": 16,
+      "ram": "16GB",
+      "storage": "512GB",
+      "ethernet": "GbE",
+      "refurbPrice": 1059,
+      "retailPrice": 1299,
+      "discount": 23.1,
+      "lastSeen": "2026-08-16",
+      "firstSeen": "2025-12-10",
+      "sightings": [
+        {
+          "date": "2025-12-10",
+          "price": 999
+        },
+        {
+          "date": "2026-08-16",
+          "price": 1059
         }
       ]
     },
