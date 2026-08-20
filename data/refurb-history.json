@@ -539,34 +539,6 @@
       ]
     },
     {
-      "ref": "G1CF5LL/A",
-      "chip": "M4",
-      "cpuCores": 10,
-      "gpuCores": 10,
-      "ram": "24GB",
-      "storage": "256GB",
-      "ethernet": "10GbE",
-      "refurbPrice": 759,
-      "retailPrice": 899,
-      "discount": 15.6,
-      "lastSeen": "2026-02-18",
-      "firstSeen": "2025-12-30",
-      "sightings": [
-        {
-          "date": "2025-12-30",
-          "price": 759
-        },
-        {
-          "date": "2026-02-17",
-          "price": 759
-        },
-        {
-          "date": "2026-02-18",
-          "price": 759
-        }
-      ]
-    },
-    {
       "ref": "G16L8LL/A",
       "chip": "M2",
       "cpuCores": 8,
@@ -617,7 +589,7 @@
       "refurbPrice": 849,
       "retailPrice": 799,
       "discount": 15,
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-20",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -711,6 +683,10 @@
         {
           "date": "2026-08-13",
           "price": 849
+        },
+        {
+          "date": "2026-08-20",
+          "price": 849
         }
       ]
     },
@@ -725,7 +701,7 @@
       "refurbPrice": 849,
       "retailPrice": 799,
       "discount": 15,
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-20",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -771,6 +747,10 @@
         {
           "date": "2026-08-13",
           "price": 849
+        },
+        {
+          "date": "2026-08-20",
+          "price": 849
         }
       ]
     },
@@ -815,6 +795,38 @@
       ]
     },
     {
+      "ref": "G1CF5LL/A",
+      "chip": "M4",
+      "cpuCores": 10,
+      "gpuCores": 10,
+      "ram": "24GB",
+      "storage": "256GB",
+      "ethernet": "10GbE",
+      "refurbPrice": 929,
+      "retailPrice": 899,
+      "discount": 15.6,
+      "lastSeen": "2026-08-20",
+      "firstSeen": "2025-12-30",
+      "sightings": [
+        {
+          "date": "2025-12-30",
+          "price": 759
+        },
+        {
+          "date": "2026-02-17",
+          "price": 759
+        },
+        {
+          "date": "2026-02-18",
+          "price": 759
+        },
+        {
+          "date": "2026-08-20",
+          "price": 929
+        }
+      ]
+    },
+    {
       "ref": "G1CF0LL/A",
       "chip": "M4",
       "cpuCores": 10,
@@ -825,7 +837,7 @@
       "refurbPrice": 929,
       "retailPrice": 899,
       "discount": 15.6,
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-20",
       "firstSeen": "2026-02-01",
       "sightings": [
         {
@@ -870,6 +882,10 @@
         },
         {
           "date": "2026-08-13",
+          "price": 929
+        },
+        {
+          "date": "2026-08-20",
           "price": 929
         }
       ]
@@ -925,7 +941,7 @@
       "refurbPrice": 1019,
       "retailPrice": 999,
       "discount": 15,
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-20",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -990,6 +1006,10 @@
         },
         {
           "date": "2026-08-13",
+          "price": 1019
+        },
+        {
+          "date": "2026-08-20",
           "price": 1019
         }
       ]
@@ -1137,7 +1157,7 @@
       "refurbPrice": 1099,
       "retailPrice": 1099,
       "discount": 15.5,
-      "lastSeen": "2026-07-30",
+      "lastSeen": "2026-08-20",
       "firstSeen": "2026-02-01",
       "sightings": [
         {
@@ -1150,6 +1170,10 @@
         },
         {
           "date": "2026-07-30",
+          "price": 1099
+        },
+        {
+          "date": "2026-08-20",
           "price": 1099
         }
       ]
@@ -1201,7 +1225,7 @@
       "refurbPrice": 1099,
       "retailPrice": 999,
       "discount": 15,
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-20",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -1279,6 +1303,10 @@
         {
           "date": "2026-08-13",
           "price": 1099
+        },
+        {
+          "date": "2026-08-20",
+          "price": 1099
         }
       ]
     },
@@ -1302,38 +1330,6 @@
         },
         {
           "date": "2026-02-18",
-          "price": 1099
-        }
-      ]
-    },
-    {
-      "ref": "G1JX0LL/A",
-      "chip": "M4",
-      "cpuCores": 10,
-      "gpuCores": 10,
-      "ram": "24GB",
-      "storage": "1TB",
-      "ethernet": "10GbE",
-      "refurbPrice": 1099,
-      "retailPrice": 1299,
-      "discount": 15.4,
-      "lastSeen": "2026-03-11",
-      "firstSeen": "2026-01-30",
-      "sightings": [
-        {
-          "date": "2026-01-30",
-          "price": 1099
-        },
-        {
-          "date": "2026-02-18",
-          "price": 1099
-        },
-        {
-          "date": "2026-03-10",
-          "price": 1099
-        },
-        {
-          "date": "2026-03-11",
           "price": 1099
         }
       ]
@@ -1549,7 +1545,7 @@
       "refurbPrice": 1269,
       "retailPrice": 1199,
       "discount": 15,
-      "lastSeen": "2026-08-06",
+      "lastSeen": "2026-08-20",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -1611,6 +1607,10 @@
         {
           "date": "2026-08-06",
           "price": 1269
+        },
+        {
+          "date": "2026-08-20",
+          "price": 1269
         }
       ]
     },
@@ -1635,42 +1635,6 @@
       ]
     },
     {
-      "ref": "G1JX2LL/A",
-      "chip": "M4",
-      "cpuCores": 10,
-      "gpuCores": 10,
-      "ram": "32GB",
-      "storage": "1TB",
-      "ethernet": "10GbE",
-      "refurbPrice": 1269,
-      "retailPrice": 1499,
-      "discount": 15.3,
-      "lastSeen": "2026-03-10",
-      "firstSeen": "2026-01-31",
-      "sightings": [
-        {
-          "date": "2026-01-31",
-          "price": 1269
-        },
-        {
-          "date": "2026-02-17",
-          "price": 1269
-        },
-        {
-          "date": "2026-02-20",
-          "price": 1269
-        },
-        {
-          "date": "2026-02-25",
-          "price": 1269
-        },
-        {
-          "date": "2026-03-10",
-          "price": 1269
-        }
-      ]
-    },
-    {
       "ref": "G1709LL/A",
       "chip": "M2 Pro",
       "cpuCores": 10,
@@ -1687,6 +1651,42 @@
         {
           "date": "2025-11-06",
           "price": 1339
+        }
+      ]
+    },
+    {
+      "ref": "G1JX0LL/A",
+      "chip": "M4",
+      "cpuCores": 10,
+      "gpuCores": 10,
+      "ram": "24GB",
+      "storage": "1TB",
+      "ethernet": "10GbE",
+      "refurbPrice": 1359,
+      "retailPrice": 1299,
+      "discount": 15.4,
+      "lastSeen": "2026-08-20",
+      "firstSeen": "2026-01-30",
+      "sightings": [
+        {
+          "date": "2026-01-30",
+          "price": 1099
+        },
+        {
+          "date": "2026-02-18",
+          "price": 1099
+        },
+        {
+          "date": "2026-03-10",
+          "price": 1099
+        },
+        {
+          "date": "2026-03-11",
+          "price": 1099
+        },
+        {
+          "date": "2026-08-20",
+          "price": 1359
         }
       ]
     },
@@ -1785,7 +1785,7 @@
       "refurbPrice": 1439,
       "retailPrice": 1399,
       "discount": 15,
-      "lastSeen": "2026-07-15",
+      "lastSeen": "2026-08-20",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -1823,6 +1823,10 @@
         {
           "date": "2026-07-15",
           "price": 1439
+        },
+        {
+          "date": "2026-08-20",
+          "price": 1439
         }
       ]
     },
@@ -1837,7 +1841,7 @@
       "refurbPrice": 1439,
       "retailPrice": 1499,
       "discount": 15.3,
-      "lastSeen": "2026-07-15",
+      "lastSeen": "2026-08-20",
       "firstSeen": "2026-01-30",
       "sightings": [
         {
@@ -1850,6 +1854,10 @@
         },
         {
           "date": "2026-07-15",
+          "price": 1439
+        },
+        {
+          "date": "2026-08-20",
           "price": 1439
         }
       ]
@@ -1955,6 +1963,46 @@
       ]
     },
     {
+      "ref": "G1JX2LL/A",
+      "chip": "M4",
+      "cpuCores": 10,
+      "gpuCores": 10,
+      "ram": "32GB",
+      "storage": "1TB",
+      "ethernet": "10GbE",
+      "refurbPrice": 1529,
+      "retailPrice": 1499,
+      "discount": 15.3,
+      "lastSeen": "2026-08-20",
+      "firstSeen": "2026-01-31",
+      "sightings": [
+        {
+          "date": "2026-01-31",
+          "price": 1269
+        },
+        {
+          "date": "2026-02-17",
+          "price": 1269
+        },
+        {
+          "date": "2026-02-20",
+          "price": 1269
+        },
+        {
+          "date": "2026-02-25",
+          "price": 1269
+        },
+        {
+          "date": "2026-03-10",
+          "price": 1269
+        },
+        {
+          "date": "2026-08-20",
+          "price": 1529
+        }
+      ]
+    },
+    {
       "ref": "G1KZQLL/A",
       "chip": "M4 Pro",
       "cpuCores": 14,
@@ -2047,38 +2095,6 @@
       ]
     },
     {
-      "ref": "G1JV5LL/A",
-      "chip": "M4 Pro",
-      "cpuCores": 14,
-      "gpuCores": 20,
-      "ram": "24GB",
-      "storage": "1TB",
-      "ethernet": "GbE",
-      "refurbPrice": 1529,
-      "retailPrice": 1799,
-      "discount": 15,
-      "lastSeen": "2026-03-10",
-      "firstSeen": "2026-02-02",
-      "sightings": [
-        {
-          "date": "2026-02-02",
-          "price": 1529
-        },
-        {
-          "date": "2026-02-17",
-          "price": 1529
-        },
-        {
-          "date": "2026-02-18",
-          "price": 1529
-        },
-        {
-          "date": "2026-03-10",
-          "price": 1529
-        }
-      ]
-    },
-    {
       "ref": "G170CLL/A",
       "chip": "M2 Pro",
       "cpuCores": 10,
@@ -2129,7 +2145,7 @@
       "refurbPrice": 1609,
       "retailPrice": 1599,
       "discount": 15,
-      "lastSeen": "2026-08-06",
+      "lastSeen": "2026-08-20",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -2166,6 +2182,10 @@
         },
         {
           "date": "2026-08-06",
+          "price": 1609
+        },
+        {
+          "date": "2026-08-20",
           "price": 1609
         }
       ]
@@ -2301,7 +2321,7 @@
       "refurbPrice": 1699,
       "retailPrice": 1599,
       "discount": 15,
-      "lastSeen": "2026-07-31",
+      "lastSeen": "2026-08-20",
       "firstSeen": "2026-02-01",
       "sightings": [
         {
@@ -2338,6 +2358,10 @@
         },
         {
           "date": "2026-07-31",
+          "price": 1699
+        },
+        {
+          "date": "2026-08-20",
           "price": 1699
         }
       ]
@@ -2491,6 +2515,42 @@
       ]
     },
     {
+      "ref": "G1JV5LL/A",
+      "chip": "M4 Pro",
+      "cpuCores": 14,
+      "gpuCores": 20,
+      "ram": "24GB",
+      "storage": "1TB",
+      "ethernet": "GbE",
+      "refurbPrice": 1779,
+      "retailPrice": 1799,
+      "discount": 15,
+      "lastSeen": "2026-08-20",
+      "firstSeen": "2026-02-02",
+      "sightings": [
+        {
+          "date": "2026-02-02",
+          "price": 1529
+        },
+        {
+          "date": "2026-02-17",
+          "price": 1529
+        },
+        {
+          "date": "2026-02-18",
+          "price": 1529
+        },
+        {
+          "date": "2026-03-10",
+          "price": 1529
+        },
+        {
+          "date": "2026-08-20",
+          "price": 1779
+        }
+      ]
+    },
+    {
       "ref": "G1JX3LL/A",
       "chip": "M4",
       "cpuCores": 10,
@@ -2501,7 +2561,7 @@
       "refurbPrice": 1779,
       "retailPrice": 1699,
       "discount": 15.3,
-      "lastSeen": "2026-07-15",
+      "lastSeen": "2026-08-20",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -2518,6 +2578,10 @@
         },
         {
           "date": "2026-07-15",
+          "price": 1779
+        },
+        {
+          "date": "2026-08-20",
           "price": 1779
         }
       ]
@@ -2657,7 +2721,7 @@
       "refurbPrice": 1869,
       "retailPrice": 1799,
       "discount": 15,
-      "lastSeen": "2026-08-13",
+      "lastSeen": "2026-08-20",
       "firstSeen": "2026-02-09",
       "sightings": [
         {
@@ -2674,6 +2738,10 @@
         },
         {
           "date": "2026-08-13",
+          "price": 1869
+        },
+        {
+          "date": "2026-08-20",
           "price": 1869
         }
       ]
