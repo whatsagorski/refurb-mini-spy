@@ -993,7 +993,7 @@
       "refurbPrice": 1019,
       "retailPrice": 999,
       "discount": 15,
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-09",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -1070,6 +1070,10 @@
         },
         {
           "date": "2026-09-04",
+          "price": 1019
+        },
+        {
+          "date": "2026-09-09",
           "price": 1019
         }
       ]
@@ -1217,7 +1221,7 @@
       "refurbPrice": 1099,
       "retailPrice": 1099,
       "discount": 15.5,
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-09",
       "firstSeen": "2026-02-01",
       "sightings": [
         {
@@ -1242,6 +1246,10 @@
         },
         {
           "date": "2026-09-04",
+          "price": 1099
+        },
+        {
+          "date": "2026-09-09",
           "price": 1099
         }
       ]
@@ -1629,7 +1637,7 @@
       "refurbPrice": 1269,
       "retailPrice": 1199,
       "discount": 15,
-      "lastSeen": "2026-09-04",
+      "lastSeen": "2026-09-09",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -1710,6 +1718,10 @@
         },
         {
           "date": "2026-09-04",
+          "price": 1269
+        },
+        {
+          "date": "2026-09-09",
           "price": 1269
         }
       ]
@@ -2363,30 +2375,6 @@
       ]
     },
     {
-      "ref": "G1JV6LL/A",
-      "chip": "M4 Pro",
-      "cpuCores": 14,
-      "gpuCores": 20,
-      "ram": "24GB",
-      "storage": "1TB",
-      "ethernet": "10GbE",
-      "refurbPrice": 1609,
-      "retailPrice": 1899,
-      "discount": 15.3,
-      "lastSeen": "2026-03-10",
-      "firstSeen": "2026-02-09",
-      "sightings": [
-        {
-          "date": "2026-02-09",
-          "price": 1609
-        },
-        {
-          "date": "2026-03-10",
-          "price": 1609
-        }
-      ]
-    },
-    {
       "ref": "G1JX5LL/A",
       "chip": "M4",
       "cpuCores": 10,
@@ -2783,6 +2771,34 @@
         {
           "date": "2025-11-25",
           "price": 1849
+        }
+      ]
+    },
+    {
+      "ref": "G1JV6LL/A",
+      "chip": "M4 Pro",
+      "cpuCores": 14,
+      "gpuCores": 20,
+      "ram": "24GB",
+      "storage": "1TB",
+      "ethernet": "10GbE",
+      "refurbPrice": 1869,
+      "retailPrice": 1899,
+      "discount": 15.3,
+      "lastSeen": "2026-09-09",
+      "firstSeen": "2026-02-09",
+      "sightings": [
+        {
+          "date": "2026-02-09",
+          "price": 1609
+        },
+        {
+          "date": "2026-03-10",
+          "price": 1609
+        },
+        {
+          "date": "2026-09-09",
+          "price": 1869
         }
       ]
     },
