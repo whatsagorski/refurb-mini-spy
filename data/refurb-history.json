@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-09-29",
+  "collectedAt": "2026-09-30",
   "source": "https://www.apple.com/shop/refurbished/mac/mac-mini",
   "products": [
     {
@@ -1369,7 +1369,7 @@
       "refurbPrice": 1099,
       "retailPrice": 999,
       "discount": 15,
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-09-30",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -1482,6 +1482,10 @@
         },
         {
           "date": "2026-09-29",
+          "price": 1099
+        },
+        {
+          "date": "2026-09-30",
           "price": 1099
         }
       ]
@@ -1733,7 +1737,7 @@
       "refurbPrice": 1269,
       "retailPrice": 1199,
       "discount": 15,
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-09-30",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -1831,6 +1835,10 @@
         {
           "date": "2026-09-29",
           "price": 1269
+        },
+        {
+          "date": "2026-09-30",
+          "price": 1269
         }
       ]
     },
@@ -1917,7 +1925,7 @@
       "refurbPrice": 1359,
       "retailPrice": 1399,
       "discount": 15,
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-09-30",
       "firstSeen": "2026-02-01",
       "sightings": [
         {
@@ -1978,6 +1986,10 @@
         },
         {
           "date": "2026-09-29",
+          "price": 1359
+        },
+        {
+          "date": "2026-09-30",
           "price": 1359
         }
       ]
@@ -3261,7 +3273,7 @@
       "refurbPrice": 2039,
       "retailPrice": 1999,
       "discount": 15,
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-09-30",
       "firstSeen": "2026-02-01",
       "sightings": [
         {
@@ -3290,6 +3302,10 @@
         },
         {
           "date": "2026-09-29",
+          "price": 2039
+        },
+        {
+          "date": "2026-09-30",
           "price": 2039
         }
       ]
@@ -3789,7 +3805,7 @@
       "refurbPrice": 2379,
       "retailPrice": 2299,
       "discount": 15.2,
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-09-30",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -3838,6 +3854,10 @@
         },
         {
           "date": "2026-09-29",
+          "price": 2379
+        },
+        {
+          "date": "2026-09-30",
           "price": 2379
         }
       ]
@@ -4001,7 +4021,7 @@
       "refurbPrice": 2549,
       "retailPrice": 2399,
       "discount": 15,
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-09-30",
       "firstSeen": "2026-02-09",
       "sightings": [
         {
@@ -4022,6 +4042,10 @@
         },
         {
           "date": "2026-09-29",
+          "price": 2549
+        },
+        {
+          "date": "2026-09-30",
           "price": 2549
         }
       ]
@@ -4197,7 +4221,7 @@
       "refurbPrice": 2799,
       "retailPrice": 2699,
       "discount": 15.2,
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-09-30",
       "firstSeen": "2026-01-30",
       "sightings": [
         {
@@ -4226,6 +4250,10 @@
         },
         {
           "date": "2026-09-29",
+          "price": 2799
+        },
+        {
+          "date": "2026-09-30",
           "price": 2799
         }
       ]
@@ -4329,7 +4357,7 @@
       "refurbPrice": 2969,
       "retailPrice": 2699,
       "discount": 15.2,
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-09-30",
       "firstSeen": "2025-12-16",
       "sightings": [
         {
@@ -4338,6 +4366,10 @@
         },
         {
           "date": "2026-09-29",
+          "price": 2969
+        },
+        {
+          "date": "2026-09-30",
           "price": 2969
         }
       ]
@@ -4621,7 +4653,7 @@
       "refurbPrice": 3649,
       "retailPrice": 3299,
       "discount": 15.2,
-      "lastSeen": "2026-09-29",
+      "lastSeen": "2026-09-30",
       "firstSeen": "2025-10-29",
       "sightings": [
         {
@@ -4638,6 +4670,10 @@
         },
         {
           "date": "2026-09-29",
+          "price": 3649
+        },
+        {
+          "date": "2026-09-30",
           "price": 3649
         }
       ]
