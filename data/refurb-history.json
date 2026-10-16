@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-15",
+  "collectedAt": "2026-10-16",
   "source": "https://www.apple.com/shop/refurbished/mac/mac-mini",
   "products": [
     {
@@ -2673,7 +2673,7 @@
       "refurbPrice": 1699,
       "retailPrice": 1599,
       "discount": 15,
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "firstSeen": "2026-02-01",
       "sightings": [
         {
@@ -2746,6 +2746,10 @@
         },
         {
           "date": "2026-10-15",
+          "price": 1699
+        },
+        {
+          "date": "2026-10-16",
           "price": 1699
         }
       ]
@@ -2921,7 +2925,7 @@
       "refurbPrice": 1779,
       "retailPrice": 1699,
       "discount": 15.3,
-      "lastSeen": "2026-10-15",
+      "lastSeen": "2026-10-16",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -2946,6 +2950,10 @@
         },
         {
           "date": "2026-10-15",
+          "price": 1779
+        },
+        {
+          "date": "2026-10-16",
           "price": 1779
         }
       ]
