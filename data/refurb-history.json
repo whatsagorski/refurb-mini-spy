@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-10-26",
+  "collectedAt": "2026-10-27",
   "source": "https://www.apple.com/shop/refurbished/mac/mac-mini",
   "products": [
     {
@@ -3269,7 +3269,7 @@
       "refurbPrice": 1869,
       "retailPrice": 1899,
       "discount": 15.3,
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-27",
       "firstSeen": "2026-02-09",
       "sightings": [
         {
@@ -3314,6 +3314,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 1869
+        },
+        {
+          "date": "2026-10-27",
           "price": 1869
         }
       ]
@@ -4281,7 +4285,7 @@
       "refurbPrice": 2379,
       "retailPrice": 2299,
       "discount": 15.2,
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-27",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -4366,6 +4370,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 2379
+        },
+        {
+          "date": "2026-10-27",
           "price": 2379
         }
       ]
@@ -5189,7 +5197,7 @@
       "refurbPrice": 3569,
       "retailPrice": 3199,
       "discount": 15,
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-27",
       "firstSeen": "2026-02-01",
       "sightings": [
         {
@@ -5226,6 +5234,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 3569
+        },
+        {
+          "date": "2026-10-27",
           "price": 3569
         }
       ]
@@ -5450,7 +5462,7 @@
       "retailPrice": null,
       "discount": null,
       "firstSeen": "2026-10-20",
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-27",
       "sightings": [
         {
           "date": "2026-10-20",
@@ -5478,6 +5490,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 5269
+        },
+        {
+          "date": "2026-10-27",
           "price": 5269
         }
       ]
@@ -5553,7 +5569,7 @@
       "refurbPrice": 5689,
       "retailPrice": 4699,
       "discount": 15.1,
-      "lastSeen": "2026-10-26",
+      "lastSeen": "2026-10-27",
       "firstSeen": "2026-01-28",
       "sightings": [
         {
@@ -5594,6 +5610,10 @@
         },
         {
           "date": "2026-10-26",
+          "price": 5689
+        },
+        {
+          "date": "2026-10-27",
           "price": 5689
         }
       ]
