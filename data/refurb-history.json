@@ -1,5 +1,5 @@
 {
-  "collectedAt": "2026-11-26",
+  "collectedAt": "2026-11-27",
   "source": "https://www.apple.com/shop/refurbished/mac/mac-mini",
   "products": [
     {
@@ -297,7 +297,7 @@
       "refurbPrice": 679,
       "retailPrice": 599,
       "discount": 15,
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -414,6 +414,10 @@
         },
         {
           "date": "2026-11-26",
+          "price": 679
+        },
+        {
+          "date": "2026-11-27",
           "price": 679
         }
       ]
@@ -657,7 +661,7 @@
       "refurbPrice": 849,
       "retailPrice": 799,
       "discount": 15,
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -866,6 +870,10 @@
         },
         {
           "date": "2026-11-26",
+          "price": 849
+        },
+        {
+          "date": "2026-11-27",
           "price": 849
         }
       ]
@@ -1185,7 +1193,7 @@
       "refurbPrice": 1019,
       "retailPrice": 999,
       "discount": 15,
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
       "firstSeen": "2026-02-12",
       "sightings": [
         {
@@ -1318,6 +1326,10 @@
         },
         {
           "date": "2026-11-26",
+          "price": 1019
+        },
+        {
+          "date": "2026-11-27",
           "price": 1019
         }
       ]
@@ -4921,7 +4933,7 @@
       "refurbPrice": 2549,
       "retailPrice": 2399,
       "discount": 15,
-      "lastSeen": "2026-11-26",
+      "lastSeen": "2026-11-27",
       "firstSeen": "2026-02-09",
       "sightings": [
         {
@@ -4978,6 +4990,10 @@
         },
         {
           "date": "2026-11-26",
+          "price": 2549
+        },
+        {
+          "date": "2026-11-27",
           "price": 2549
         }
       ]
